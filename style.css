@@ -50,8 +50,8 @@ body {
     height: auto;
     border-radius: 6px;
     border: 3px solid #ffffff;
+    margin-left: -1cm;   /* moves image 1 cm to the LEFT */
 }
-
 /* CONTENT SECTIONS */
 section {
     background-color: #ffffff;
