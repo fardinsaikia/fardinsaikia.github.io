@@ -46,7 +46,7 @@ body {
 
 /* IMAGE (BIG, RIGHT SIDE) */
 .header-image img {
-    width: 240px;        /* reduced, professional size */
+    width: 260px;        /* reduced, professional size */
     height: auto;
     border-radius: 6px;
     border: 3px solid #ffffff;
