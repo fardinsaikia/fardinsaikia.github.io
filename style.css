@@ -85,3 +85,10 @@ footer {
     font-size: 14px;
     color: #555;
 }
+/* ABOUT ME – larger font and fully bold */
+.about-me {
+    font-size: 19px;        /* larger font */
+    font-weight: bold;     /* everything bold */
+    line-height: 1.8;
+}
+
